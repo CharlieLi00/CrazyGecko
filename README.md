@@ -18,5 +18,5 @@ Results showed that the active spine significantly increased the robot’s climb
 - Nick (Yuxiao) Chen
 
 ## 📚 Course Information  
-**Course:** 24-775 Bio-Inspired Robot Design  
+**Course:** Carnegie Mellon University 24-775 Robot Design & Experimentation  
 **Institution:** Carnegie Mellon University
