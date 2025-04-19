@@ -1,7 +1,22 @@
-A gecko-inspired climbing robot - final project for Carnegie Mellon University 24-775 Bio-inspired robot design.
+# A Gecko-Inspired Climbing Robot  
+*Final Project for Carnegie Mellon University 24-775 Bio-Inspired Robot Design*
 
-Won the Best Prototype Award at CMU Tech Spark Mechanical Engineering Expo.
+## 🏆 Award  
+**Best Prototype Award** at CMU Tech Spark Mechanical Engineering Expo
 
-Team: Charlie (Chenxiang) Li (me), Jason Eastering, Jianhao Tang, Nick (Yuxiao) Chen.
+## 📄 Abstract  
+Contrary to traditional models of climbing robots with rigid spines, our team hypothesized that incorporating an active, flexible spine in a gecko-inspired climbing robot would increase its climbing speed on vertical surfaces, compared to robots equipped with a rigid spine.
 
-Abstract: Contrary to traditional models of climbing robots with rigid spines, the team hypothesized that the incorporation of an active, flexible spine in the gecko-inspired climbing robot will increase its climbing speed on vertical surfaces, in comparison to models equipped with a rigid spine. To test this, the team developed a novel active spine mechanism actuated by a stepper motor, which was synchronized with the robot’s leg movements. Comprehensive climbing tests demonstrated that the active spine indeed increased the robot’s climbing speed by extending its step length while maintaining the control of the climbing direction, thereby confirming our hypothesis.
+To test this hypothesis, we developed a novel active spine mechanism actuated by a stepper motor, synchronized with the robot’s leg movements. Comprehensive climbing tests were conducted to evaluate the effectiveness of this design.
+
+Results showed that the active spine significantly increased the robot’s climbing speed by extending its step length while maintaining accurate directional control. These findings support our hypothesis and demonstrate the potential of flexible spine integration in bio-inspired climbing robots.
+
+## 👥 Team Members  
+- Charlie (Chenxiang) Li  
+- Jason Eastering  
+- Jianhao Tang  
+- Nick (Yuxiao) Chen
+
+## 📚 Course Information  
+**Course:** 24-775 Bio-Inspired Robot Design  
+**Institution:** Carnegie Mellon University
