@@ -11,6 +11,8 @@ To test this hypothesis, we developed a novel active spine mechanism actuated by
 
 Results showed that the active spine significantly increased the robot’s climbing speed by extending its step length while maintaining accurate directional control. These findings support our hypothesis and demonstrate the potential of flexible spine integration in bio-inspired climbing robots.
 
+Check out our video at https://www.youtube.com/watch?v=CyUYrrjnagE
+
 ## 👥 Team Members  
 - Charlie (Chenxiang) Li  
 - Jason Eastering  
